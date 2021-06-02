@@ -1,0 +1,52 @@
+{"properties": [
+  {
+    "name": "servlet.context-path",
+    "type": "java.lang.String",
+    "description": "A description for 'servlet.context-path'"
+  },
+  {
+    "name": "spring.datasource.jpa.properties.hibernate.format_sql",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.jpa.properties.hibernate.format_sql'"
+  },
+  {
+    "name": "spring.datasource.jpa.properties.hibernate.mvc.view.prefix",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.jpa.properties.hibernate.mvc.view.prefix'"
+  },
+  {
+    "name": "spring.datasource.jpa.properties.hibernate.mvc.view.suffix",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.jpa.properties.hibernate.mvc.view.suffix'"
+  },
+  {
+    "name": "spring.datasource.mvc.view.prefix",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.mvc.view.prefix'"
+  },
+  {
+    "name": "spring.datasource.mvc.view.suffix",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.mvc.view.suffix'"
+  },
+  {
+    "name": "mvc.view.prefix",
+    "type": "java.lang.String",
+    "description": "A description for 'mvc.view.prefix'"
+  },
+  {
+    "name": "mvc.view.suffix",
+    "type": "java.lang.String",
+    "description": "A description for 'mvc.view.suffix'"
+  },
+  {
+    "name": "mvc.views.prefix",
+    "type": "java.lang.String",
+    "description": "A description for 'mvc.views.prefix'"
+  },
+  {
+    "name": "mvc.views.suffix",
+    "type": "java.lang.String",
+    "description": "A description for 'mvc.views.suffix'"
+  }
+]}
